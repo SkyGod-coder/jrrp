@@ -82,7 +82,7 @@ public class FileClass {
 
     private static String refine(String s){
                 //判断是否为*头尾引号*
-        return s.startsWith("\"") && s.endsWith("\n")
+        return s.startsWith("\"") && s.endsWith("\"")
                 ?
                 s.replace("---"+System.getProperty("line.separator"),"")
                         .replace(System.getProperty("line.separator")+"...","")
