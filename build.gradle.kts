@@ -7,7 +7,7 @@ plugins {
 }
 
 group = "SkyGod"
-version = "1.1"
+version = "1.2"
 
 repositories {
     mavenLocal()
