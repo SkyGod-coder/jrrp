@@ -1,4 +1,4 @@
-# jrrp
-*mirai bot plugin*
-Frame:mirai
-Author:SkyGod
+># jrrp
+>### mirai bot plugin
+ >>* Frame:mirai
+ >>* Author:SkyGod
